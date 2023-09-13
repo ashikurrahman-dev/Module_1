@@ -65,7 +65,7 @@ Create a PHP script named weather_report.php that provides weather information b
             $temp = $_POST["temp"];
 
             switch ($temp) {
-                case $temp <= 0:
+                case $temp <= 2:
                     echo "<p>It's freezing!</p>";
                     break;
                 case $temp <= 20:
@@ -73,8 +73,6 @@ Create a PHP script named weather_report.php that provides weather information b
                     break;
                 default:
                     echo "<p> It's warm.</p>";
-
-
             }
         }
         ?>
