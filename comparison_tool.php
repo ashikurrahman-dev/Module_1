@@ -71,7 +71,6 @@ Create a form where the user can input two numbers. Use the ternary operator to 
         }
         ?>
     </div>
-    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat nostrum non vero! Odio modi consequatur obcaecati at tenetur provident totam!</h2>
 </body>
 
 </html>
